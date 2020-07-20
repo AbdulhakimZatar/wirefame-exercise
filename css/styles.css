@@ -1,14 +1,18 @@
 nav section ul li {
-    display: inline;
-    margin: 40px;
+    display: inline-block;
     position: relative;
-    left: 250px;
-    bottom: -30px;
+    left: 140px;
+    bottom: 45px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 nav section img {
-    display: inline;
-    position: absolute;
-    left: 650px;
+    display: inline-block;  
+    position: relative;
+    margin-left: 50px;
+    margin-right: 50px;
+    left: -380px;
+    
 }
 nav {
     background-color: rgb(88, 88, 88);
